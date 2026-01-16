@@ -1,0 +1,389 @@
+tab delimited	contribution
+id	version	timestamp	contributor	data_model_version	reference	lab_names
+20570	1	2026-01-15T08:07:16.246Z	@jmeert123	3.0	10.1016/J.GSF.2025.102168	Paleomagnetism and Environmental Magnetism (University of Florida, USA)
+>>>>>>>>>>
+tab delimited	locations
+location	location_type	geologic_classes	lithologies	lat_s	lat_n	lon_w	lon_e	age	age_low	age_high	age_unit
+Great Boundary Fault-Vindhyan	Outcrop	Sedimentary	Sandstone	25.447	25.44705	75.6152	75.6228	950	900	1000	Ma
+>>>>>>>>>>
+tab delimited	sites
+site	location	method_codes	citations	geologic_classes	geologic_types	lithologies	lat	lon	age	age_low	age_high	age_unit
+I225	Great Boundary Fault-Vindhyan	LP-DIR-T	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	Sedimentary	Sediment Layer	Sandstone	25.44705	75.6152	950	900	1000	Ma
+I226	Great Boundary Fault-Vindhyan	LP-DIR-T	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	Sedimentary	Sediment Layer	Sandstone	25.447	75.6228	950	900	1000	Ma
+>>>>>>>>>>
+tab delimited	samples
+sample	site	specimens	result_quality	method_codes	citations	geologic_classes	geologic_types	lithologies	azimuth	dip	bed_dip	bed_dip_direction	dir_tilt_correction	dir_dec	dir_inc	dir_n_specimens	dir_n_specimens_lines	dir_comp_name	software_packages
+I225-1	I225	I225-1	g	LP-DIR-T:DE-BFL:DA-DIR-GEO	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	Sedimentary	Sediment Layer	Sandstone	1.0	-29.0	68.0	200.0	0	338.3	72.7	1	1	Fit 1	pmagpy-4.3.8: demag_gui.v.3.0
+I225-1	I225	I225-1	g	LP-DIR-T:DE-BFL:DA-DIR-GEO:DA-DIR-TILT	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	Sedimentary	Sediment Layer	Sandstone	1.0	-29.0	68.0	200.0	100	213.8	34.3	1	1	Fit 1	pmagpy-4.3.8: demag_gui.v.3.0
+I225-2	I225	I225-2	g	LP-DIR-T:DE-BFL:DA-DIR-GEO	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	Sedimentary	Sediment Layer	Sandstone	3.0	-68.0	68.0	200.0	0	316.8	72.5	1	1	Fit 1	pmagpy-4.3.8: demag_gui.v.3.0
+I225-2	I225	I225-2	g	LP-DIR-T:DE-BFL:DA-DIR-GEO:DA-DIR-TILT	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	Sedimentary	Sediment Layer	Sandstone	3.0	-68.0	68.0	200.0	100	217.8	28.9	1	1	Fit 1	pmagpy-4.3.8: demag_gui.v.3.0
+I225-3	I225	I225-3	g	LP-DIR-T:DE-BFL:DA-DIR-GEO	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	Sedimentary	Sediment Layer	Sandstone	9.0	-55.0	68.0	200.0	0	328.3	78.6	1	1	Fit 1	pmagpy-4.3.8: demag_gui.v.3.0
+I225-3	I225	I225-3	g	LP-DIR-T:DE-BFL:DA-DIR-GEO:DA-DIR-TILT	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	Sedimentary	Sediment Layer	Sandstone	9.0	-55.0	68.0	200.0	100	210.2	28.8	1	1	Fit 1	pmagpy-4.3.8: demag_gui.v.3.0
+I225-4c	I225	I225-4c	g	LP-DIR-T:DE-BFL:DA-DIR-GEO	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	Sedimentary	Sediment Layer	Sandstone	13.0	-26.0	68.0	200.0	0	169.4	72.7	1	1	Fit 1	pmagpy-4.3.8: demag_gui.v.3.0
+I225-4c	I225	I225-4c	g	LP-DIR-T:DE-BFL:DA-DIR-GEO:DA-DIR-TILT	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	Sedimentary	Sediment Layer	Sandstone	13.0	-26.0	68.0	200.0	100	191.2	6.9	1	1	Fit 1	pmagpy-4.3.8: demag_gui.v.3.0
+I225-5	I225	I225-5	g	LP-DIR-T:DE-BFL:DA-DIR-GEO	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	Sedimentary	Sediment Layer	Sandstone	1.0	-67.0	68.0	200.0	0	306.8	63.6	1	1	Fit 1	pmagpy-4.3.8: demag_gui.v.3.0
+I225-5	I225	I225-5	g	LP-DIR-T:DE-BFL:DA-DIR-GEO:DA-DIR-TILT	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	Sedimentary	Sediment Layer	Sandstone	1.0	-67.0	68.0	200.0	100	228.6	27.0	1	1	Fit 1	pmagpy-4.3.8: demag_gui.v.3.0
+I225-6	I225	I225-6	g	LP-DIR-T:DE-BFL:DA-DIR-GEO	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	Sedimentary	Sediment Layer	Sandstone	4.0	-62.0	68.0	200.0	0	296.3	64.9	1	1	Fit 1	pmagpy-4.3.8: demag_gui.v.3.0
+I225-6	I225	I225-6	g	LP-DIR-T:DE-BFL:DA-DIR-GEO:DA-DIR-TILT	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	Sedimentary	Sediment Layer	Sandstone	4.0	-62.0	68.0	200.0	100	227.1	22.5	1	1	Fit 1	pmagpy-4.3.8: demag_gui.v.3.0
+I225-7	I225	I225-7	g	LP-DIR-T:DE-BFL:DA-DIR-GEO	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	Sedimentary	Sediment Layer	Sandstone	359.0	-60.0	68.0	200.0	0	281.6	67.2	1	1	Fit 1	pmagpy-4.3.8: demag_gui.v.3.0
+I225-7	I225	I225-7	g	LP-DIR-T:DE-BFL:DA-DIR-GEO:DA-DIR-TILT	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	Sedimentary	Sediment Layer	Sandstone	359.0	-60.0	68.0	200.0	100	223.6	17.0	1	1	Fit 1	pmagpy-4.3.8: demag_gui.v.3.0
+I225-8	I225	I225-8	g	LP-DIR-T:DE-BFL:DA-DIR-GEO	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	Sedimentary	Sediment Layer	Sandstone	0.0	-65.0	68.0	200.0	0	315.0	64.8	1	1	Fit 1	pmagpy-4.3.8: demag_gui.v.3.0
+I225-8	I225	I225-8	g	LP-DIR-T:DE-BFL:DA-DIR-GEO:DA-DIR-TILT	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	Sedimentary	Sediment Layer	Sandstone	0.0	-65.0	68.0	200.0	100	226.6	30.4	1	1	Fit 1	pmagpy-4.3.8: demag_gui.v.3.0
+I226-1	I226	I226-1	g	LP-DIR-T:DE-BFL:DA-DIR-GEO	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	Sedimentary	Sediment Layer	Sandstone	159.0	-84.0	72.0	152.0	0	81.6	-29.9	1	1	Fit 1	pmagpy-4.3.8: demag_gui.v.3.0
+I226-1	I226	I226-1	g	LP-DIR-T:DE-BFL:DA-DIR-GEO:DA-DIR-TILT	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	Sedimentary	Sediment Layer	Sandstone	159.0	-84.0	72.0	152.0	100	36.8	-25.5	1	1	Fit 1	pmagpy-4.3.8: demag_gui.v.3.0
+I226-2	I226	I226-2	g	LP-DIR-T:DE-BFL:DA-DIR-GEO	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	Sedimentary	Sediment Layer	Sandstone	159.0	-86.0	72.0	152.0	0	74.8	-40.2	1	1	Fit 1	pmagpy-4.3.8: demag_gui.v.3.0
+I226-2	I226	I226-2	g	LP-DIR-T:DE-BFL:DA-DIR-GEO:DA-DIR-TILT	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	Sedimentary	Sediment Layer	Sandstone	159.0	-86.0	72.0	152.0	100	25.0	-21.1	1	1	Fit 1	pmagpy-4.3.8: demag_gui.v.3.0
+I226-3	I226	I226-3	g	LP-DIR-T:DE-BFL:DA-DIR-GEO	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	Sedimentary	Sediment Layer	Sandstone	173.0	-47.0	72.0	152.0	0	92.7	-48.7	1	1	Fit 1	pmagpy-4.3.8: demag_gui.v.3.0
+I226-3	I226	I226-3	g	LP-DIR-T:DE-BFL:DA-DIR-GEO:DA-DIR-TILT	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	Sedimentary	Sediment Layer	Sandstone	173.0	-47.0	72.0	152.0	100	15.0	-33.6	1	1	Fit 1	pmagpy-4.3.8: demag_gui.v.3.0
+I226-4	I226	I226-4	g	LP-DIR-T:DE-BFL:DA-DIR-GEO	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	Sedimentary	Sediment Layer	Sandstone	174.0	-40.0	72.0	152.0	0	102.3	-35.5	1	1	Fit 1	pmagpy-4.3.8: demag_gui.v.3.0
+I226-4	I226	I226-4	g	LP-DIR-T:DE-BFL:DA-DIR-GEO:DA-DIR-TILT	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	Sedimentary	Sediment Layer	Sandstone	174.0	-40.0	72.0	152.0	100	29.9	-42.8	1	1	Fit 1	pmagpy-4.3.8: demag_gui.v.3.0
+I226-5	I226	I226-5	g	LP-DIR-T:DE-BFL:DA-DIR-GEO	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	Sedimentary	Sediment Layer	Sandstone	177.0	-54.0	72.0	152.0	0	83.7	-31.8	1	1	Fit 1	pmagpy-4.3.8: demag_gui.v.3.0
+I226-5	I226	I226-5	g	LP-DIR-T:DE-BFL:DA-DIR-GEO:DA-DIR-TILT	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	Sedimentary	Sediment Layer	Sandstone	177.0	-54.0	72.0	152.0	100	34.9	-27.5	1	1	Fit 1	pmagpy-4.3.8: demag_gui.v.3.0
+I226-6	I226	I226-6	g	LP-DIR-T:DE-BFL:DA-DIR-GEO	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	Sedimentary	Sediment Layer	Sandstone	175.0	-55.0	72.0	152.0	0	83.4	-26.3	1	1	Fit 1	pmagpy-4.3.8: demag_gui.v.3.0
+I226-6	I226	I226-6	g	LP-DIR-T:DE-BFL:DA-DIR-GEO:DA-DIR-TILT	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	Sedimentary	Sediment Layer	Sandstone	175.0	-55.0	72.0	152.0	100	41.0	-26.6	1	1	Fit 1	pmagpy-4.3.8: demag_gui.v.3.0
+I226-7	I226	I226-7	g	LP-DIR-T:DE-BFL:DA-DIR-GEO	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	Sedimentary	Sediment Layer	Sandstone	160.0	-57.0	72.0	152.0	0	92.5	-40.7	1	1	Fit 1	pmagpy-4.3.8: demag_gui.v.3.0
+I226-7	I226	I226-7	g	LP-DIR-T:DE-BFL:DA-DIR-GEO:DA-DIR-TILT	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	Sedimentary	Sediment Layer	Sandstone	160.0	-57.0	72.0	152.0	100	24.5	-34.6	1	1	Fit 1	pmagpy-4.3.8: demag_gui.v.3.0
+I226-8	I226	I226-8	g	LP-DIR-T:DE-BFL:DA-DIR-GEO	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	Sedimentary	Sediment Layer	Sandstone	171.0	-56.0	72.0	152.0	0	68.8	-36.2	1	1	Fit 1	pmagpy-4.3.8: demag_gui.v.3.0
+I226-8	I226	I226-8	g	LP-DIR-T:DE-BFL:DA-DIR-GEO:DA-DIR-TILT	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	Sedimentary	Sediment Layer	Sandstone	171.0	-56.0	72.0	152.0	100	28.4	-15.8	1	1	Fit 1	pmagpy-4.3.8: demag_gui.v.3.0
+>>>>>>>>>>
+tab delimited	specimens
+specimen	sample	experiments	volume	result_quality	method_codes	citations	meas_step_min	meas_step_max	meas_step_unit	geologic_classes	geologic_types	lithologies	dir_tilt_correction	dir_dec	dir_inc	dir_n_measurements	dir_comp	dir_n_comps	dir_mad_free	dir_dang	int_corr	instrument_codes	software_packages
+I225-1	I225-1	I225-1-LP-DIR-T	1.15e-05	g	LP-DIR-T:DE-BFL:DA-DIR	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	923	953	K	Sedimentary	Sediment Layer	Sandstone	-1	207.2	75.5	4	Fit 1	1	14.2	5.7	u	Cryogenic	pmagpy-4.3.8: demag_gui
+I225-1	I225-1	I225-1-LP-DIR-T	1.15e-05	g	LP-DIR-T:DE-BFL:DA-DIR-GEO	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	923	953	K	Sedimentary	Sediment Layer	Sandstone	0	338.3	72.7	4	Fit 1	1	14.2	5.7	u	Cryogenic	pmagpy-4.3.8: demag_gui
+I225-1	I225-1	I225-1-LP-DIR-T	1.15e-05	g	LP-DIR-T:DE-BFL:DA-DIR-TILT	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	923	953	K	Sedimentary	Sediment Layer	Sandstone	100	213.8	34.3	4	Fit 1	1	14.2	5.7	u	Cryogenic	pmagpy-4.3.8: demag_gui
+I225-2	I225-2	I225-2-LP-DIR-T	1.15e-05	g	LP-DIR-T:DE-BFL:DA-DIR	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	883	963	K	Sedimentary	Sediment Layer	Sandstone	-1	195.1	33.4	9	Fit 1	1	7.0	5.3	u	Cryogenic	pmagpy-4.3.8: demag_gui
+I225-2	I225-2	I225-2-LP-DIR-T	1.15e-05	g	LP-DIR-T:DE-BFL:DA-DIR-GEO	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	883	963	K	Sedimentary	Sediment Layer	Sandstone	0	316.8	72.5	9	Fit 1	1	7.0	5.3	u	Cryogenic	pmagpy-4.3.8: demag_gui
+I225-2	I225-2	I225-2-LP-DIR-T	1.15e-05	g	LP-DIR-T:DE-BFL:DA-DIR-TILT	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	883	963	K	Sedimentary	Sediment Layer	Sandstone	100	217.8	28.9	9	Fit 1	1	7.0	5.3	u	Cryogenic	pmagpy-4.3.8: demag_gui
+I225-3	I225-3	I225-3-LP-DIR-T	1.156e-05	g	LP-DIR-T:DE-BFL:DA-DIR	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	913	963	K	Sedimentary	Sediment Layer	Sandstone	-1	190.2	43.3	7	Fit 1	1	3.8	7.0	u	Cryogenic	pmagpy-4.3.8: demag_gui
+I225-3	I225-3	I225-3-LP-DIR-T	1.156e-05	g	LP-DIR-T:DE-BFL:DA-DIR-GEO	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	913	963	K	Sedimentary	Sediment Layer	Sandstone	0	328.3	78.6	7	Fit 1	1	3.8	7.0	u	Cryogenic	pmagpy-4.3.8: demag_gui
+I225-3	I225-3	I225-3-LP-DIR-T	1.156e-05	g	LP-DIR-T:DE-BFL:DA-DIR-TILT	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	913	963	K	Sedimentary	Sediment Layer	Sandstone	100	210.2	28.8	7	Fit 1	1	3.8	7.0	u	Cryogenic	pmagpy-4.3.8: demag_gui
+I225-4c	I225-4c	I225-4c-LP-DIR-T	1.15e-05	g	LP-DIR-T:DE-BFL:DA-DIR	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	883	963	K	Sedimentary	Sediment Layer	Sandstone	-1	169.8	47.6	9	Fit 1	1	6.3	5.3	u	Cryogenic	pmagpy-4.3.8: demag_gui
+I225-4c	I225-4c	I225-4c-LP-DIR-T	1.15e-05	g	LP-DIR-T:DE-BFL:DA-DIR-GEO	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	883	963	K	Sedimentary	Sediment Layer	Sandstone	0	169.4	72.7	9	Fit 1	1	6.3	5.3	u	Cryogenic	pmagpy-4.3.8: demag_gui
+I225-4c	I225-4c	I225-4c-LP-DIR-T	1.15e-05	g	LP-DIR-T:DE-BFL:DA-DIR-TILT	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	883	963	K	Sedimentary	Sediment Layer	Sandstone	100	191.2	6.9	9	Fit 1	1	6.3	5.3	u	Cryogenic	pmagpy-4.3.8: demag_gui
+I225-5	I225-5	I225-5-LP-DIR-T	1.15e-05	g	LP-DIR-T:DE-BFL:DA-DIR	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	923	963	K	Sedimentary	Sediment Layer	Sandstone	-1	206.5	36.1	6	Fit 1	1	6.5	2.5	u	Cryogenic	pmagpy-4.3.8: demag_gui
+I225-5	I225-5	I225-5-LP-DIR-T	1.15e-05	g	LP-DIR-T:DE-BFL:DA-DIR-GEO	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	923	963	K	Sedimentary	Sediment Layer	Sandstone	0	306.8	63.6	6	Fit 1	1	6.5	2.5	u	Cryogenic	pmagpy-4.3.8: demag_gui
+I225-5	I225-5	I225-5-LP-DIR-T	1.15e-05	g	LP-DIR-T:DE-BFL:DA-DIR-TILT	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	923	963	K	Sedimentary	Sediment Layer	Sandstone	100	228.6	27.0	6	Fit 1	1	6.5	2.5	u	Cryogenic	pmagpy-4.3.8: demag_gui
+I225-6	I225-6	I225-6-LP-DIR-T	1.15e-05	g	LP-DIR-T:DE-BFL:DA-DIR	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	923	963	K	Sedimentary	Sediment Layer	Sandstone	-1	208.4	34.6	6	Fit 1	1	9.3	1.5	u	Cryogenic	pmagpy-4.3.8: demag_gui
+I225-6	I225-6	I225-6-LP-DIR-T	1.15e-05	g	LP-DIR-T:DE-BFL:DA-DIR-GEO	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	923	963	K	Sedimentary	Sediment Layer	Sandstone	0	296.3	64.9	6	Fit 1	1	9.3	1.5	u	Cryogenic	pmagpy-4.3.8: demag_gui
+I225-6	I225-6	I225-6-LP-DIR-T	1.15e-05	g	LP-DIR-T:DE-BFL:DA-DIR-TILT	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	923	963	K	Sedimentary	Sediment Layer	Sandstone	100	227.1	22.5	6	Fit 1	1	9.3	1.5	u	Cryogenic	pmagpy-4.3.8: demag_gui
+I225-7	I225-7	I225-7-LP-DIR-T	1.15e-05	g	LP-DIR-T:DE-BFL:DA-DIR	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	913	963	K	Sedimentary	Sediment Layer	Sandstone	-1	206.5	32.3	7	Fit 1	1	5.3	2.3	u	Cryogenic	pmagpy-4.3.8: demag_gui
+I225-7	I225-7	I225-7-LP-DIR-T	1.15e-05	g	LP-DIR-T:DE-BFL:DA-DIR-GEO	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	913	963	K	Sedimentary	Sediment Layer	Sandstone	0	281.6	67.2	7	Fit 1	1	5.3	2.3	u	Cryogenic	pmagpy-4.3.8: demag_gui
+I225-7	I225-7	I225-7-LP-DIR-T	1.15e-05	g	LP-DIR-T:DE-BFL:DA-DIR-TILT	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	913	963	K	Sedimentary	Sediment Layer	Sandstone	100	223.6	17.0	7	Fit 1	1	5.3	2.3	u	Cryogenic	pmagpy-4.3.8: demag_gui
+I225-8	I225-8	I225-8-LP-DIR-T	1.15e-05	g	LP-DIR-T:DE-BFL:DA-DIR	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	883	953	K	Sedimentary	Sediment Layer	Sandstone	-1	203.5	40.9	8	Fit 1	1	6.4	3.1	u	Cryogenic	pmagpy-4.3.8: demag_gui
+I225-8	I225-8	I225-8-LP-DIR-T	1.15e-05	g	LP-DIR-T:DE-BFL:DA-DIR-GEO	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	883	953	K	Sedimentary	Sediment Layer	Sandstone	0	315.0	64.8	8	Fit 1	1	6.4	3.1	u	Cryogenic	pmagpy-4.3.8: demag_gui
+I225-8	I225-8	I225-8-LP-DIR-T	1.15e-05	g	LP-DIR-T:DE-BFL:DA-DIR-TILT	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	883	953	K	Sedimentary	Sediment Layer	Sandstone	100	226.6	30.4	8	Fit 1	1	6.4	3.1	u	Cryogenic	pmagpy-4.3.8: demag_gui
+I226-1	I226-1	I226-1-LP-DIR-T	1.15e-05	g	LP-DIR-T:DE-BFL:DA-DIR	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	883	948	K	Sedimentary	Sediment Layer	Sandstone	-1	301.4	7.8	7	Fit 1	1	3.8	1.5	u	Cryogenic	pmagpy-4.3.8: demag_gui
+I226-1	I226-1	I226-1-LP-DIR-T	1.15e-05	g	LP-DIR-T:DE-BFL:DA-DIR-GEO	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	883	948	K	Sedimentary	Sediment Layer	Sandstone	0	81.6	-29.9	7	Fit 1	1	3.8	1.5	u	Cryogenic	pmagpy-4.3.8: demag_gui
+I226-1	I226-1	I226-1-LP-DIR-T	1.15e-05	g	LP-DIR-T:DE-BFL:DA-DIR-TILT	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	883	948	K	Sedimentary	Sediment Layer	Sandstone	100	36.8	-25.5	7	Fit 1	1	3.8	1.5	u	Cryogenic	pmagpy-4.3.8: demag_gui
+I226-2	I226-2	I226-2-LP-DIR-T	1.156e-05	g	LP-DIR-T:DE-BFL:DA-DIR	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	913	948	K	Sedimentary	Sediment Layer	Sandstone	-1	310.5	1.8	5	Fit 1	1	4.4	4.5	u	Cryogenic	pmagpy-4.3.8: demag_gui
+I226-2	I226-2	I226-2-LP-DIR-T	1.156e-05	g	LP-DIR-T:DE-BFL:DA-DIR-GEO	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	913	948	K	Sedimentary	Sediment Layer	Sandstone	0	74.8	-40.2	5	Fit 1	1	4.4	4.5	u	Cryogenic	pmagpy-4.3.8: demag_gui
+I226-2	I226-2	I226-2-LP-DIR-T	1.156e-05	g	LP-DIR-T:DE-BFL:DA-DIR-TILT	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	913	948	K	Sedimentary	Sediment Layer	Sandstone	100	25.0	-21.1	5	Fit 1	1	4.4	4.5	u	Cryogenic	pmagpy-4.3.8: demag_gui
+I226-3	I226-3	I226-3-LP-DIR-T	1.15e-05	g	LP-DIR-T:DE-BFL:DA-DIR	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	838	883	K	Sedimentary	Sediment Layer	Sandstone	-1	313.8	-25.5	3	Fit 1	1	0.6	2.7	u	Cryogenic	pmagpy-4.3.8: demag_gui
+I226-3	I226-3	I226-3-LP-DIR-T	1.15e-05	g	LP-DIR-T:DE-BFL:DA-DIR-GEO	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	838	883	K	Sedimentary	Sediment Layer	Sandstone	0	92.7	-48.7	3	Fit 1	1	0.6	2.7	u	Cryogenic	pmagpy-4.3.8: demag_gui
+I226-3	I226-3	I226-3-LP-DIR-T	1.15e-05	g	LP-DIR-T:DE-BFL:DA-DIR-TILT	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	838	883	K	Sedimentary	Sediment Layer	Sandstone	100	15.0	-33.6	3	Fit 1	1	0.6	2.7	u	Cryogenic	pmagpy-4.3.8: demag_gui
+I226-4	I226-4	I226-4-LP-DIR-T	1.15e-05	g	LP-DIR-T:DE-BFL:DA-DIR	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	883	933	K	Sedimentary	Sediment Layer	Sandstone	-1	306.3	-16.3	5	Fit 1	1	5.9	0.8	u	Cryogenic	pmagpy-4.3.8: demag_gui
+I226-4	I226-4	I226-4-LP-DIR-T	1.15e-05	g	LP-DIR-T:DE-BFL:DA-DIR-GEO	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	883	933	K	Sedimentary	Sediment Layer	Sandstone	0	102.3	-35.5	5	Fit 1	1	5.9	0.8	u	Cryogenic	pmagpy-4.3.8: demag_gui
+I226-4	I226-4	I226-4-LP-DIR-T	1.15e-05	g	LP-DIR-T:DE-BFL:DA-DIR-TILT	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	883	933	K	Sedimentary	Sediment Layer	Sandstone	100	29.9	-42.8	5	Fit 1	1	5.9	0.8	u	Cryogenic	pmagpy-4.3.8: demag_gui
+I226-5	I226-5	I226-5-LP-DIR-T	1.15e-05	g	LP-DIR-T:DE-BFL:DA-DIR	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	883	943	K	Sedimentary	Sediment Layer	Sandstone	-1	295.1	-20.4	6	Fit 1	1	6.7	7.5	u	Cryogenic	pmagpy-4.3.8: demag_gui
+I226-5	I226-5	I226-5-LP-DIR-T	1.15e-05	g	LP-DIR-T:DE-BFL:DA-DIR-GEO	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	883	943	K	Sedimentary	Sediment Layer	Sandstone	0	83.7	-31.8	6	Fit 1	1	6.7	7.5	u	Cryogenic	pmagpy-4.3.8: demag_gui
+I226-5	I226-5	I226-5-LP-DIR-T	1.15e-05	g	LP-DIR-T:DE-BFL:DA-DIR-TILT	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	883	943	K	Sedimentary	Sediment Layer	Sandstone	100	34.9	-27.5	6	Fit 1	1	6.7	7.5	u	Cryogenic	pmagpy-4.3.8: demag_gui
+I226-6	I226-6	I226-6-LP-DIR-T	1.15e-05	g	LP-DIR-T:DE-BFL:DA-DIR	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	883	923	K	Sedimentary	Sediment Layer	Sandstone	-1	291.2	-16.0	4	Fit 1	1	1.3	0.4	u	Cryogenic	pmagpy-4.3.8: demag_gui
+I226-6	I226-6	I226-6-LP-DIR-T	1.15e-05	g	LP-DIR-T:DE-BFL:DA-DIR-GEO	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	883	923	K	Sedimentary	Sediment Layer	Sandstone	0	83.4	-26.3	4	Fit 1	1	1.3	0.4	u	Cryogenic	pmagpy-4.3.8: demag_gui
+I226-6	I226-6	I226-6-LP-DIR-T	1.15e-05	g	LP-DIR-T:DE-BFL:DA-DIR-TILT	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	883	923	K	Sedimentary	Sediment Layer	Sandstone	100	41.0	-26.6	4	Fit 1	1	1.3	0.4	u	Cryogenic	pmagpy-4.3.8: demag_gui
+I226-7	I226-7	I226-7-LP-DIR-T	1.15e-05	g	LP-DIR-T:DE-BFL:DA-DIR	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	883	933	K	Sedimentary	Sediment Layer	Sandstone	-1	315.2	-6.4	5	Fit 1	1	2.4	1.2	u	Cryogenic	pmagpy-4.3.8: demag_gui
+I226-7	I226-7	I226-7-LP-DIR-T	1.15e-05	g	LP-DIR-T:DE-BFL:DA-DIR-GEO	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	883	933	K	Sedimentary	Sediment Layer	Sandstone	0	92.5	-40.7	5	Fit 1	1	2.4	1.2	u	Cryogenic	pmagpy-4.3.8: demag_gui
+I226-7	I226-7	I226-7-LP-DIR-T	1.15e-05	g	LP-DIR-T:DE-BFL:DA-DIR-TILT	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	883	933	K	Sedimentary	Sediment Layer	Sandstone	100	24.5	-34.6	5	Fit 1	1	2.4	1.2	u	Cryogenic	pmagpy-4.3.8: demag_gui
+I226-8	I226-8	I226-8-LP-DIR-T	1.15e-05	g	LP-DIR-T:DE-BFL:DA-DIR	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	883	923	K	Sedimentary	Sediment Layer	Sandstone	-1	296.5	-28.2	4	Fit 1	1	3.7	5.3	u	Cryogenic	pmagpy-4.3.8: demag_gui
+I226-8	I226-8	I226-8-LP-DIR-T	1.15e-05	g	LP-DIR-T:DE-BFL:DA-DIR-GEO	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	883	923	K	Sedimentary	Sediment Layer	Sandstone	0	68.8	-36.2	4	Fit 1	1	3.7	5.3	u	Cryogenic	pmagpy-4.3.8: demag_gui
+I226-8	I226-8	I226-8-LP-DIR-T	1.15e-05	g	LP-DIR-T:DE-BFL:DA-DIR-TILT	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study	883	923	K	Sedimentary	Sediment Layer	Sandstone	100	28.4	-15.8	4	Fit 1	1	3.7	5.3	u	Cryogenic	pmagpy-4.3.8: demag_gui
+>>>>>>>>>>
+tab delimited	measurements
+citations	dir_csd	dir_dec	dir_inc	experiment	instrument_codes	magn_moment	magn_volume	meas_temp	measurement	method_codes	quality	sequence	specimen	treat_ac_field	treat_temp
+This study	1.0	201.3	65.8	I225-1-LP-DIR-T	Cryogenic	2.67605e-08	0.002327	273	I225-1-LP-DIR-T-1	LT-T-Z	g	2	I225-1	0	273.0
+This study	2.0	188.4	67.1	I225-1-LP-DIR-T	Cryogenic	2.34255e-08	0.0020369999999999	273	I225-1-LP-DIR-T-2	LT-T-Z	g	3	I225-1	0	448.0
+This study	1.0	203.8	69.7	I225-1-LP-DIR-T	Cryogenic	2.39315e-08	0.002081	273	I225-1-LP-DIR-T-3	LT-T-Z	g	4	I225-1	0	523.0
+This study	2.0	199.8	71.5	I225-1-LP-DIR-T	Cryogenic	2.4058000000000006e-08	0.002092	273	I225-1-LP-DIR-T-4	LT-T-Z	g	5	I225-1	0	603.0
+This study	2.0	184.2	71.5	I225-1-LP-DIR-T	Cryogenic	2.4472e-08	0.002128	273	I225-1-LP-DIR-T-5	LT-T-Z	g	6	I225-1	0	673.0
+This study	2.0	193.6	70.6	I225-1-LP-DIR-T	Cryogenic	2.3138e-08	0.002012	273	I225-1-LP-DIR-T-6	LT-T-Z	g	7	I225-1	0	723.0
+This study	2.0	204.6	66.9	I225-1-LP-DIR-T	Cryogenic	2.38625e-08	0.002075	273	I225-1-LP-DIR-T-7	LT-T-Z	g	8	I225-1	0	773.0
+This study	2.0	205.8	67.1	I225-1-LP-DIR-T	Cryogenic	2.55185e-08	0.002219	273	I225-1-LP-DIR-T-8	LT-T-Z	g	9	I225-1	0	798.0
+This study	2.0	200.4	66.3	I225-1-LP-DIR-T	Cryogenic	2.56565e-08	0.002231	273	I225-1-LP-DIR-T-9	LT-T-Z	g	1	I225-1	0	818.0
+This study	2.0	201.6	66.3	I225-1-LP-DIR-T	Cryogenic	2.52655e-08	0.002197	273	I225-1-LP-DIR-T-10	LT-T-Z	g	11	I225-1	0	838.0
+This study	2.0	200.9	67.1	I225-1-LP-DIR-T	Cryogenic	2.4748000000000004e-08	0.002152	273	I225-1-LP-DIR-T-11	LT-T-Z	g	12	I225-1	0	863.0
+This study	2.0	206.1	66.5	I225-1-LP-DIR-T	Cryogenic	2.26895e-08	0.001973	273	I225-1-LP-DIR-T-12	LT-T-Z	g	13	I225-1	0	883.0
+This study	2.0	207.5	74.5	I225-1-LP-DIR-T	Cryogenic	2.1229e-08	0.001846	273	I225-1-LP-DIR-T-13	LT-T-Z	g	14	I225-1	0	898.0
+This study	2.0	186.0	72.7	I225-1-LP-DIR-T	Cryogenic	2.15625e-08	0.001875	273	I225-1-LP-DIR-T-14	LT-T-Z	g	15	I225-1	0	913.0
+This study	2.0	197.8	78.2	I225-1-LP-DIR-T	Cryogenic	2.03665e-08	0.001771	273	I225-1-LP-DIR-T-15	LT-T-Z	g	16	I225-1	0	923.0
+This study	2.0	212.4	75.9	I225-1-LP-DIR-T	Cryogenic	2.0332e-08	0.001768	273	I225-1-LP-DIR-T-16	LT-T-Z	g	17	I225-1	0	933.0
+This study	2.0	113.5	81.6	I225-1-LP-DIR-T	Cryogenic	1.4536e-08	0.001264	273	I225-1-LP-DIR-T-17	LT-T-Z	g	18	I225-1	0	943.0
+This study	2.0	208.2	81.8	I225-1-LP-DIR-T	Cryogenic	3.703e-09	0.000322	273	I225-1-LP-DIR-T-18	LT-T-Z	g	19	I225-1	0	953.0
+This study	3.0	193.7	48.6	I225-2-LP-DIR-T	Cryogenic	5.354399999999999e-08	0.0046559999999999	273	I225-2-LP-DIR-T-1	LT-T-Z	g	2	I225-2	0	273.0
+This study	2.0	197.5	37.7	I225-2-LP-DIR-T	Cryogenic	4.6644e-08	0.004056	273	I225-2-LP-DIR-T-2	LT-T-Z	g	3	I225-2	0	448.0
+This study	2.0	193.9	37.5	I225-2-LP-DIR-T	Cryogenic	4.4919e-08	0.003906	273	I225-2-LP-DIR-T-3	LT-T-Z	g	4	I225-2	0	523.0
+This study	2.0	195.8	37.1	I225-2-LP-DIR-T	Cryogenic	4.40795e-08	0.003833	273	I225-2-LP-DIR-T-4	LT-T-Z	g	5	I225-2	0	603.0
+This study	1.0	197.7	34.4	I225-2-LP-DIR-T	Cryogenic	4.424050000000001e-08	0.003847	273	I225-2-LP-DIR-T-5	LT-T-Z	g	6	I225-2	0	673.0
+This study	2.0	197.2	33.6	I225-2-LP-DIR-T	Cryogenic	4.31825e-08	0.003755	273	I225-2-LP-DIR-T-6	LT-T-Z	g	7	I225-2	0	723.0
+This study	3.0	200.5	32.8	I225-2-LP-DIR-T	Cryogenic	4.20325e-08	0.003655	273	I225-2-LP-DIR-T-7	LT-T-Z	g	8	I225-2	0	773.0
+This study	3.0	202.3	33.3	I225-2-LP-DIR-T	Cryogenic	4.0733e-08	0.003542	273	I225-2-LP-DIR-T-8	LT-T-Z	g	9	I225-2	0	798.0
+This study	1.0	199.1	33.6	I225-2-LP-DIR-T	Cryogenic	4.0595e-08	0.0035299999999999	273	I225-2-LP-DIR-T-9	LT-T-Z	g	1	I225-2	0	818.0
+This study	1.0	201.2	33.4	I225-2-LP-DIR-T	Cryogenic	3.9652e-08	0.003448	273	I225-2-LP-DIR-T-10	LT-T-Z	g	11	I225-2	0	838.0
+This study	4.0	197.4	33.5	I225-2-LP-DIR-T	Cryogenic	3.6133e-08	0.003142	273	I225-2-LP-DIR-T-11	LT-T-Z	g	12	I225-2	0	863.0
+This study	4.0	197.8	33.3	I225-2-LP-DIR-T	Cryogenic	3.50635e-08	0.003049	273	I225-2-LP-DIR-T-12	LT-T-Z	g	13	I225-2	0	883.0
+This study	3.0	202.4	32.5	I225-2-LP-DIR-T	Cryogenic	3.3971e-08	0.002954	273	I225-2-LP-DIR-T-13	LT-T-Z	g	14	I225-2	0	898.0
+This study	3.0	200.5	34.4	I225-2-LP-DIR-T	Cryogenic	3.2982e-08	0.002868	273	I225-2-LP-DIR-T-14	LT-T-Z	g	15	I225-2	0	913.0
+This study	3.0	198.5	34.7	I225-2-LP-DIR-T	Cryogenic	3.1395e-08	0.00273	273	I225-2-LP-DIR-T-15	LT-T-Z	g	16	I225-2	0	923.0
+This study	3.0	197.6	36.7	I225-2-LP-DIR-T	Cryogenic	3.10385e-08	0.002699	273	I225-2-LP-DIR-T-16	LT-T-Z	g	17	I225-2	0	933.0
+This study	3.0	198.8	35.1	I225-2-LP-DIR-T	Cryogenic	2.2402e-08	0.0019479999999999	273	I225-2-LP-DIR-T-17	LT-T-Z	g	18	I225-2	0	943.0
+This study	2.0	213.4	36.2	I225-2-LP-DIR-T	Cryogenic	1.6491e-08	0.001434	273	I225-2-LP-DIR-T-18	LT-T-Z	g	19	I225-2	0	948.0
+This study	3.0	213.6	36.3	I225-2-LP-DIR-T	Cryogenic	1.17415e-08	0.001021	273	I225-2-LP-DIR-T-19	LT-T-Z	g	2	I225-2	0	953.0
+This study	3.0	209.6	30.3	I225-2-LP-DIR-T	Cryogenic	3.7605e-09	0.000327	273	I225-2-LP-DIR-T-20	LT-T-Z	g	21	I225-2	0	963.0
+This study	2.0	190.6	57.6	I225-3-LP-DIR-T	Cryogenic	5.8273960000000017e-08	0.005041	273	I225-3-LP-DIR-T-1	LT-T-Z	g	2	I225-3	0	273.0
+This study	2.0	189.8	48.3	I225-3-LP-DIR-T	Cryogenic	4.9187800000000006e-08	0.004255	273	I225-3-LP-DIR-T-2	LT-T-Z	g	3	I225-3	0	448.0
+This study	2.0	192.4	45.5	I225-3-LP-DIR-T	Cryogenic	4.7315080000000016e-08	0.004093	273	I225-3-LP-DIR-T-3	LT-T-Z	g	4	I225-3	0	523.0
+This study	2.0	191.8	44.3	I225-3-LP-DIR-T	Cryogenic	4.568512e-08	0.003952	273	I225-3-LP-DIR-T-4	LT-T-Z	g	5	I225-3	0	603.0
+This study	2.0	190.7	43.9	I225-3-LP-DIR-T	Cryogenic	4.390488e-08	0.003798	273	I225-3-LP-DIR-T-5	LT-T-Z	g	6	I225-3	0	673.0
+This study	2.0	195.3	43.2	I225-3-LP-DIR-T	Cryogenic	4.24252e-08	0.00367	273	I225-3-LP-DIR-T-6	LT-T-Z	g	7	I225-3	0	723.0
+This study	3.0	193.6	40.3	I225-3-LP-DIR-T	Cryogenic	4.2194000000000014e-08	0.00365	273	I225-3-LP-DIR-T-7	LT-T-Z	g	8	I225-3	0	773.0
+This study	3.0	192.0	39.1	I225-3-LP-DIR-T	Cryogenic	4.0171000000000016e-08	0.003475	273	I225-3-LP-DIR-T-8	LT-T-Z	g	9	I225-3	0	798.0
+This study	2.0	191.6	35.2	I225-3-LP-DIR-T	Cryogenic	3.9882000000000006e-08	0.00345	273	I225-3-LP-DIR-T-9	LT-T-Z	g	1	I225-3	0	818.0
+This study	3.0	194.4	35.0	I225-3-LP-DIR-T	Cryogenic	3.7477520000000006e-08	0.003242	273	I225-3-LP-DIR-T-10	LT-T-Z	g	11	I225-3	0	838.0
+This study	4.0	192.8	40.2	I225-3-LP-DIR-T	Cryogenic	3.679548e-08	0.0031829999999999	273	I225-3-LP-DIR-T-11	LT-T-Z	g	12	I225-3	0	863.0
+This study	3.0	194.5	39.3	I225-3-LP-DIR-T	Cryogenic	3.65296e-08	0.00316	273	I225-3-LP-DIR-T-12	LT-T-Z	g	13	I225-3	0	883.0
+This study	4.0	195.3	42.4	I225-3-LP-DIR-T	Cryogenic	3.5038360000000015e-08	0.003031	273	I225-3-LP-DIR-T-13	LT-T-Z	g	14	I225-3	0	898.0
+This study	3.0	195.2	41.3	I225-3-LP-DIR-T	Cryogenic	3.6205920000000014e-08	0.003132	273	I225-3-LP-DIR-T-14	LT-T-Z	g	15	I225-3	0	913.0
+This study	3.0	194.5	43.2	I225-3-LP-DIR-T	Cryogenic	3.188248e-08	0.002758	273	I225-3-LP-DIR-T-15	LT-T-Z	g	16	I225-3	0	923.0
+This study	2.0	198.2	43.0	I225-3-LP-DIR-T	Cryogenic	3.2911320000000005e-08	0.002847	273	I225-3-LP-DIR-T-16	LT-T-Z	g	17	I225-3	0	933.0
+This study	2.0	199.1	42.8	I225-3-LP-DIR-T	Cryogenic	2.2854120000000006e-08	0.001977	273	I225-3-LP-DIR-T-17	LT-T-Z	g	18	I225-3	0	943.0
+This study	1.0	203.4	36.2	I225-3-LP-DIR-T	Cryogenic	1.4704320000000005e-08	0.001272	273	I225-3-LP-DIR-T-18	LT-T-Z	g	19	I225-3	0	948.0
+This study	3.0	213.8	39.5	I225-3-LP-DIR-T	Cryogenic	1.045024e-08	0.000904	273	I225-3-LP-DIR-T-19	LT-T-Z	g	2	I225-3	0	953.0
+This study	3.0	252.8	17.8	I225-3-LP-DIR-T	Cryogenic	2.34668e-09	0.000203	273	I225-3-LP-DIR-T-20	LT-T-Z	g	21	I225-3	0	963.0
+This study	4.0	184.8	64.9	I225-4c-LP-DIR-T	Cryogenic	4.4804e-08	0.0038959999999999	273	I225-4c-LP-DIR-T-1	LT-T-Z	g	2	I225-4c	0	273.0
+This study	2.0	181.6	60.0	I225-4c-LP-DIR-T	Cryogenic	3.3752500000000004e-08	0.002935	273	I225-4c-LP-DIR-T-2	LT-T-Z	g	3	I225-4c	0	448.0
+This study	2.5	171.1	58.0	I225-4c-LP-DIR-T	Cryogenic	3.23265e-08	0.002811	273	I225-4c-LP-DIR-T-3	LT-T-Z	g	4	I225-4c	0	523.0
+This study	2.0	181.2	57.5	I225-4c-LP-DIR-T	Cryogenic	3.1372000000000005e-08	0.002728	273	I225-4c-LP-DIR-T-4	LT-T-Z	g	5	I225-4c	0	603.0
+This study	2.0	178.0	56.2	I225-4c-LP-DIR-T	Cryogenic	2.9509e-08	0.0025659999999999	273	I225-4c-LP-DIR-T-5	LT-T-Z	g	6	I225-4c	0	673.0
+This study	3.0	175.0	54.0	I225-4c-LP-DIR-T	Cryogenic	2.79335e-08	0.0024289999999999	273	I225-4c-LP-DIR-T-6	LT-T-Z	g	7	I225-4c	0	723.0
+This study	3.0	180.4	52.6	I225-4c-LP-DIR-T	Cryogenic	2.4633e-08	0.002142	273	I225-4c-LP-DIR-T-7	LT-T-Z	g	8	I225-4c	0	773.0
+This study	3.0	179.1	54.3	I225-4c-LP-DIR-T	Cryogenic	2.4886000000000002e-08	0.002164	273	I225-4c-LP-DIR-T-8	LT-T-Z	g	9	I225-4c	0	798.0
+This study	2.0	176.3	54.7	I225-4c-LP-DIR-T	Cryogenic	2.50585e-08	0.002179	273	I225-4c-LP-DIR-T-9	LT-T-Z	g	1	I225-4c	0	818.0
+This study	2.0	176.8	53.1	I225-4c-LP-DIR-T	Cryogenic	2.3736e-08	0.002064	273	I225-4c-LP-DIR-T-10	LT-T-Z	g	11	I225-4c	0	838.0
+This study	3.0	179.6	51.1	I225-4c-LP-DIR-T	Cryogenic	2.09415e-08	0.001821	273	I225-4c-LP-DIR-T-11	LT-T-Z	g	12	I225-4c	0	863.0
+This study	3.0	175.7	47.6	I225-4c-LP-DIR-T	Cryogenic	2.0539e-08	0.001786	273	I225-4c-LP-DIR-T-12	LT-T-Z	g	13	I225-4c	0	883.0
+This study	4.0	178.3	46.9	I225-4c-LP-DIR-T	Cryogenic	1.8377e-08	0.001598	273	I225-4c-LP-DIR-T-13	LT-T-Z	g	14	I225-4c	0	898.0
+This study	3.0	172.7	47.3	I225-4c-LP-DIR-T	Cryogenic	1.77905e-08	0.001547	273	I225-4c-LP-DIR-T-14	LT-T-Z	g	15	I225-4c	0	913.0
+This study	3.0	174.9	46.3	I225-4c-LP-DIR-T	Cryogenic	1.5916e-08	0.0013839999999999	273	I225-4c-LP-DIR-T-15	LT-T-Z	g	16	I225-4c	0	923.0
+This study	3.0	172.5	52.3	I225-4c-LP-DIR-T	Cryogenic	1.5732e-08	0.001368	273	I225-4c-LP-DIR-T-16	LT-T-Z	g	17	I225-4c	0	933.0
+This study	3.0	176.5	47.3	I225-4c-LP-DIR-T	Cryogenic	9.8325e-09	0.000855	273	I225-4c-LP-DIR-T-17	LT-T-Z	g	18	I225-4c	0	943.0
+This study	2.0	189.8	45.9	I225-4c-LP-DIR-T	Cryogenic	7.1990000000000005e-09	0.000626	273	I225-4c-LP-DIR-T-18	LT-T-Z	g	19	I225-4c	0	948.0
+This study	4.0	203.5	44.9	I225-4c-LP-DIR-T	Cryogenic	4.8530000000000005e-09	0.000422	273	I225-4c-LP-DIR-T-19	LT-T-Z	g	2	I225-4c	0	953.0
+This study	3.0	207.3	45.9	I225-4c-LP-DIR-T	Cryogenic	1.127e-09	9.8e-05	273	I225-4c-LP-DIR-T-20	LT-T-Z	g	21	I225-4c	0	963.0
+This study	2.0	202.6	23.3	I225-5-LP-DIR-T	Cryogenic	5.0048e-08	0.004352	273	I225-5-LP-DIR-T-1	LT-T-Z	g	2	I225-5	0	448.0
+This study	2.0	209.3	22.6	I225-5-LP-DIR-T	Cryogenic	5.02895e-08	0.004373	273	I225-5-LP-DIR-T-2	LT-T-Z	g	3	I225-5	0	523.0
+This study	3.0	211.0	23.9	I225-5-LP-DIR-T	Cryogenic	4.9059e-08	0.004266	273	I225-5-LP-DIR-T-3	LT-T-Z	g	4	I225-5	0	603.0
+This study	2.0	209.8	24.8	I225-5-LP-DIR-T	Cryogenic	4.91395e-08	0.004273	273	I225-5-LP-DIR-T-4	LT-T-Z	g	5	I225-5	0	673.0
+This study	3.0	210.8	25.8	I225-5-LP-DIR-T	Cryogenic	4.85415e-08	0.004221	273	I225-5-LP-DIR-T-5	LT-T-Z	g	6	I225-5	0	723.0
+This study	3.0	208.2	26.2	I225-5-LP-DIR-T	Cryogenic	4.90935e-08	0.004269	273	I225-5-LP-DIR-T-6	LT-T-Z	g	7	I225-5	0	773.0
+This study	3.0	212.4	26.4	I225-5-LP-DIR-T	Cryogenic	4.83345e-08	0.004203	273	I225-5-LP-DIR-T-7	LT-T-Z	g	8	I225-5	0	798.0
+This study	2.0	210.6	27.7	I225-5-LP-DIR-T	Cryogenic	5.06345e-08	0.004403	273	I225-5-LP-DIR-T-8	LT-T-Z	g	9	I225-5	0	818.0
+This study	2.0	207.8	26.1	I225-5-LP-DIR-T	Cryogenic	4.95765e-08	0.004311	273	I225-5-LP-DIR-T-9	LT-T-Z	g	1	I225-5	0	838.0
+This study	4.0	211.2	28.5	I225-5-LP-DIR-T	Cryogenic	4.5264e-08	0.003936	273	I225-5-LP-DIR-T-10	LT-T-Z	g	11	I225-5	0	863.0
+This study	3.0	212.3	27.3	I225-5-LP-DIR-T	Cryogenic	4.5126e-08	0.0039239999999999	273	I225-5-LP-DIR-T-11	LT-T-Z	g	12	I225-5	0	883.0
+This study	3.0	209.4	30.6	I225-5-LP-DIR-T	Cryogenic	4.2688e-08	0.003712	273	I225-5-LP-DIR-T-12	LT-T-Z	g	13	I225-5	0	898.0
+This study	3.0	209.1	30.1	I225-5-LP-DIR-T	Cryogenic	4.21705e-08	0.0036669999999999	273	I225-5-LP-DIR-T-13	LT-T-Z	g	14	I225-5	0	913.0
+This study	3.0	207.4	33.9	I225-5-LP-DIR-T	Cryogenic	3.81915e-08	0.003321	273	I225-5-LP-DIR-T-14	LT-T-Z	g	15	I225-5	0	923.0
+This study	3.0	206.3	41.1	I225-5-LP-DIR-T	Cryogenic	3.6121500000000004e-08	0.003141	273	I225-5-LP-DIR-T-15	LT-T-Z	g	16	I225-5	0	933.0
+This study	3.0	206.5	39.0	I225-5-LP-DIR-T	Cryogenic	2.20685e-08	0.001919	273	I225-5-LP-DIR-T-16	LT-T-Z	g	17	I225-5	0	943.0
+This study	2.0	199.2	40.7	I225-5-LP-DIR-T	Cryogenic	1.11665e-08	0.000971	273	I225-5-LP-DIR-T-17	LT-T-Z	g	18	I225-5	0	948.0
+This study	3.0	199.6	42.6	I225-5-LP-DIR-T	Cryogenic	7.624500000000002e-09	0.000663	273	I225-5-LP-DIR-T-18	LT-T-Z	g	19	I225-5	0	953.0
+This study	4.0	250.1	39.5	I225-5-LP-DIR-T	Cryogenic	2.668e-09	0.000232	273	I225-5-LP-DIR-T-19	LT-T-Z	g	2	I225-5	0	963.0
+This study	3.0	201.2	25.6	I225-6-LP-DIR-T	Cryogenic	4.58505e-08	0.003987	273	I225-6-LP-DIR-T-1	LT-T-Z	g	2	I225-6	0	273.0
+This study	1.0	210.3	20.2	I225-6-LP-DIR-T	Cryogenic	3.90425e-08	0.003395	273	I225-6-LP-DIR-T-2	LT-T-Z	g	3	I225-6	0	448.0
+This study	1.0	207.6	22.7	I225-6-LP-DIR-T	Cryogenic	3.60755e-08	0.003137	273	I225-6-LP-DIR-T-3	LT-T-Z	g	4	I225-6	0	523.0
+This study	2.0	209.4	25.3	I225-6-LP-DIR-T	Cryogenic	3.62595e-08	0.003153	273	I225-6-LP-DIR-T-4	LT-T-Z	g	5	I225-6	0	603.0
+This study	2.0	209.7	25.6	I225-6-LP-DIR-T	Cryogenic	3.55005e-08	0.003087	273	I225-6-LP-DIR-T-5	LT-T-Z	g	6	I225-6	0	673.0
+This study	2.0	212.8	25.8	I225-6-LP-DIR-T	Cryogenic	3.44195e-08	0.002993	273	I225-6-LP-DIR-T-6	LT-T-Z	g	7	I225-6	0	723.0
+This study	2.0	211.4	26.2	I225-6-LP-DIR-T	Cryogenic	3.473e-08	0.00302	273	I225-6-LP-DIR-T-7	LT-T-Z	g	8	I225-6	0	773.0
+This study	2.0	210.1	28.1	I225-6-LP-DIR-T	Cryogenic	3.53625e-08	0.003075	273	I225-6-LP-DIR-T-8	LT-T-Z	g	9	I225-6	0	798.0
+This study	2.0	210.1	28.1	I225-6-LP-DIR-T	Cryogenic	3.53625e-08	0.003075	273	I225-6-LP-DIR-T-9	LT-T-Z	g	1	I225-6	0	798.0
+This study	2.0	210.5	31.2	I225-6-LP-DIR-T	Cryogenic	3.57765e-08	0.003111	273	I225-6-LP-DIR-T-10	LT-T-Z	g	11	I225-6	0	818.0
+This study	2.0	211.6	33.1	I225-6-LP-DIR-T	Cryogenic	3.66965e-08	0.003191	273	I225-6-LP-DIR-T-11	LT-T-Z	g	12	I225-6	0	838.0
+This study	2.0	214.7	31.6	I225-6-LP-DIR-T	Cryogenic	3.39595e-08	0.002953	273	I225-6-LP-DIR-T-12	LT-T-Z	g	13	I225-6	0	863.0
+This study	2.0	215.7	31.5	I225-6-LP-DIR-T	Cryogenic	3.2959e-08	0.002866	273	I225-6-LP-DIR-T-13	LT-T-Z	g	14	I225-6	0	883.0
+This study	2.0	212.6	30.4	I225-6-LP-DIR-T	Cryogenic	3.0958000000000005e-08	0.002692	273	I225-6-LP-DIR-T-14	LT-T-Z	g	15	I225-6	0	898.0
+This study	1.0	213.2	29.4	I225-6-LP-DIR-T	Cryogenic	3.13375e-08	0.002725	273	I225-6-LP-DIR-T-15	LT-T-Z	g	16	I225-6	0	913.0
+This study	2.0	210.8	30.9	I225-6-LP-DIR-T	Cryogenic	2.8129000000000003e-08	0.002446	273	I225-6-LP-DIR-T-16	LT-T-Z	g	17	I225-6	0	923.0
+This study	2.0	203.0	39.6	I225-6-LP-DIR-T	Cryogenic	2.553e-08	0.00222	273	I225-6-LP-DIR-T-17	LT-T-Z	g	18	I225-6	0	933.0
+This study	2.0	206.0	33.9	I225-6-LP-DIR-T	Cryogenic	1.4605e-08	0.00127	273	I225-6-LP-DIR-T-18	LT-T-Z	g	19	I225-6	0	943.0
+This study	2.0	205.6	34.0	I225-6-LP-DIR-T	Cryogenic	1.0672e-08	0.000928	273	I225-6-LP-DIR-T-19	LT-T-Z	g	2	I225-6	0	948.0
+This study	2.0	206.4	35.5	I225-6-LP-DIR-T	Cryogenic	8.188e-09	0.000712	273	I225-6-LP-DIR-T-20	LT-T-Z	g	21	I225-6	0	953.0
+This study	2.0	204.4	34.4	I225-6-LP-DIR-T	Cryogenic	3.7374999999999996e-09	0.000325	273	I225-6-LP-DIR-T-21	LT-T-Z	g	22	I225-6	0	963.0
+This study	2.0	195.0	39.1	I225-7-LP-DIR-T	Cryogenic	4.45395e-08	0.003873	273	I225-7-LP-DIR-T-1	LT-T-Z	g	2	I225-7	0	273.0
+This study	2.0	206.8	31.1	I225-7-LP-DIR-T	Cryogenic	3.86515e-08	0.003361	273	I225-7-LP-DIR-T-2	LT-T-Z	g	3	I225-7	0	448.0
+This study	2.0	209.4	30.2	I225-7-LP-DIR-T	Cryogenic	3.89735e-08	0.0033889999999999	273	I225-7-LP-DIR-T-3	LT-T-Z	g	4	I225-7	0	523.0
+This study	2.0	207.9	33.0	I225-7-LP-DIR-T	Cryogenic	3.86515e-08	0.003361	273	I225-7-LP-DIR-T-4	LT-T-Z	g	5	I225-7	0	603.0
+This study	2.0	209.7	31.9	I225-7-LP-DIR-T	Cryogenic	3.91115e-08	0.003401	273	I225-7-LP-DIR-T-5	LT-T-Z	g	6	I225-7	0	673.0
+This study	3.0	208.9	31.9	I225-7-LP-DIR-T	Cryogenic	3.8824e-08	0.003376	273	I225-7-LP-DIR-T-6	LT-T-Z	g	7	I225-7	0	723.0
+This study	4.0	208.8	32.0	I225-7-LP-DIR-T	Cryogenic	3.86745e-08	0.003363	273	I225-7-LP-DIR-T-7	LT-T-Z	g	8	I225-7	0	773.0
+This study	3.0	206.9	32.0	I225-7-LP-DIR-T	Cryogenic	3.9882e-08	0.003468	273	I225-7-LP-DIR-T-8	LT-T-Z	g	9	I225-7	0	798.0
+This study	2.0	209.2	32.0	I225-7-LP-DIR-T	Cryogenic	3.97555e-08	0.003457	273	I225-7-LP-DIR-T-9	LT-T-Z	g	1	I225-7	0	818.0
+This study	2.0	209.4	34.1	I225-7-LP-DIR-T	Cryogenic	3.98705e-08	0.003467	273	I225-7-LP-DIR-T-10	LT-T-Z	g	11	I225-7	0	838.0
+This study	3.0	207.8	33.8	I225-7-LP-DIR-T	Cryogenic	3.74785e-08	0.0032589999999999	273	I225-7-LP-DIR-T-11	LT-T-Z	g	12	I225-7	0	863.0
+This study	3.0	208.6	31.3	I225-7-LP-DIR-T	Cryogenic	3.5719e-08	0.003106	273	I225-7-LP-DIR-T-12	LT-T-Z	g	13	I225-7	0	883.0
+This study	3.0	204.9	33.4	I225-7-LP-DIR-T	Cryogenic	3.3626e-08	0.002924	273	I225-7-LP-DIR-T-13	LT-T-Z	g	14	I225-7	0	898.0
+This study	2.0	207.9	32.3	I225-7-LP-DIR-T	Cryogenic	3.3143e-08	0.002882	273	I225-7-LP-DIR-T-14	LT-T-Z	g	15	I225-7	0	913.0
+This study	3.0	204.6	32.6	I225-7-LP-DIR-T	Cryogenic	3.0245e-08	0.00263	273	I225-7-LP-DIR-T-15	LT-T-Z	g	16	I225-7	0	923.0
+This study	3.0	203.1	34.6	I225-7-LP-DIR-T	Cryogenic	2.6887e-08	0.002338	273	I225-7-LP-DIR-T-16	LT-T-Z	g	17	I225-7	0	933.0
+This study	3.0	198.6	28.2	I225-7-LP-DIR-T	Cryogenic	1.35125e-08	0.001175	273	I225-7-LP-DIR-T-17	LT-T-Z	g	18	I225-7	0	943.0
+This study	1.0	197.0	33.3	I225-7-LP-DIR-T	Cryogenic	9.476e-09	0.000824	273	I225-7-LP-DIR-T-18	LT-T-Z	g	19	I225-7	0	948.0
+This study	2.0	195.7	37.6	I225-7-LP-DIR-T	Cryogenic	6.233e-09	0.000542	273	I225-7-LP-DIR-T-19	LT-T-Z	g	2	I225-7	0	953.0
+This study	1.0	249.7	43.3	I225-7-LP-DIR-T	Cryogenic	1.6905e-09	0.000147	273	I225-7-LP-DIR-T-20	LT-T-Z	g	21	I225-7	0	963.0
+This study	2.0	227.7	50.4	I225-8-LP-DIR-T	Cryogenic	6.526249999999999e-08	0.0056749999999999	273	I225-8-LP-DIR-T-1	LT-T-Z	g	2	I225-8	0	273.0
+This study	1.0	220.5	43.0	I225-8-LP-DIR-T	Cryogenic	4.36885e-08	0.003799	273	I225-8-LP-DIR-T-2	LT-T-Z	g	3	I225-8	0	448.0
+This study	1.0	211.7	44.5	I225-8-LP-DIR-T	Cryogenic	3.99855e-08	0.003477	273	I225-8-LP-DIR-T-3	LT-T-Z	g	4	I225-8	0	523.0
+This study	2.0	211.8	41.8	I225-8-LP-DIR-T	Cryogenic	3.8134e-08	0.003316	273	I225-8-LP-DIR-T-4	LT-T-Z	g	5	I225-8	0	603.0
+This study	2.0	201.1	41.2	I225-8-LP-DIR-T	Cryogenic	3.7375e-08	0.00325	273	I225-8-LP-DIR-T-5	LT-T-Z	g	6	I225-8	0	673.0
+This study	2.0	198.1	41.1	I225-8-LP-DIR-T	Cryogenic	3.56615e-08	0.003101	273	I225-8-LP-DIR-T-6	LT-T-Z	g	7	I225-8	0	723.0
+This study	2.0	198.8	39.9	I225-8-LP-DIR-T	Cryogenic	3.611e-08	0.00314	273	I225-8-LP-DIR-T-7	LT-T-Z	g	8	I225-8	0	773.0
+This study	2.0	202.3	37.5	I225-8-LP-DIR-T	Cryogenic	3.5627e-08	0.003098	273	I225-8-LP-DIR-T-8	LT-T-Z	g	9	I225-8	0	798.0
+This study	1.0	198.6	42.4	I225-8-LP-DIR-T	Cryogenic	3.5121e-08	0.003054	273	I225-8-LP-DIR-T-9	LT-T-Z	g	1	I225-8	0	818.0
+This study	2.0	198.3	40.0	I225-8-LP-DIR-T	Cryogenic	3.50405e-08	0.003047	273	I225-8-LP-DIR-T-10	LT-T-Z	g	11	I225-8	0	838.0
+This study	2.0	203.8	38.5	I225-8-LP-DIR-T	Cryogenic	3.18435e-08	0.002769	273	I225-8-LP-DIR-T-11	LT-T-Z	g	12	I225-8	0	863.0
+This study	2.0	204.4	38.3	I225-8-LP-DIR-T	Cryogenic	3.164799999999999e-08	0.0027519999999999	273	I225-8-LP-DIR-T-12	LT-T-Z	g	13	I225-8	0	883.0
+This study	2.0	204.2	39.6	I225-8-LP-DIR-T	Cryogenic	2.8692500000000004e-08	0.002495	273	I225-8-LP-DIR-T-13	LT-T-Z	g	14	I225-8	0	898.0
+This study	2.0	198.7	37.7	I225-8-LP-DIR-T	Cryogenic	2.7554e-08	0.0023959999999999	273	I225-8-LP-DIR-T-14	LT-T-Z	g	15	I225-8	0	913.0
+This study	3.0	207.0	39.5	I225-8-LP-DIR-T	Cryogenic	2.4506499999999995e-08	0.0021309999999999	273	I225-8-LP-DIR-T-15	LT-T-Z	g	16	I225-8	0	923.0
+This study	2.0	201.8	39.3	I225-8-LP-DIR-T	Cryogenic	2.03435e-08	0.001769	273	I225-8-LP-DIR-T-16	LT-T-Z	g	17	I225-8	0	933.0
+This study	2.0	212.1	34.4	I225-8-LP-DIR-T	Cryogenic	9.6485e-09	0.000839	273	I225-8-LP-DIR-T-17	LT-T-Z	g	18	I225-8	0	943.0
+This study	2.0	188.2	25.4	I225-8-LP-DIR-T	Cryogenic	7.0609999999999995e-09	0.000614	273	I225-8-LP-DIR-T-18	LT-T-Z	g	19	I225-8	0	948.0
+This study	3.0	214.8	23.8	I225-8-LP-DIR-T	Cryogenic	2.369e-09	0.000206	273	I225-8-LP-DIR-T-19	LT-T-Z	g	2	I225-8	0	953.0
+This study	4.0	270.8	-18.3	I226-1-LP-DIR-T	Cryogenic	4.2711e-08	0.003714	273	I226-1-LP-DIR-T-1	LT-T-Z	g	2	I226-1	0	273.0
+This study	2.0	294.0	-2.9	I226-1-LP-DIR-T	Cryogenic	4.24235e-08	0.003689	273	I226-1-LP-DIR-T-2	LT-T-Z	g	3	I226-1	0	448.0
+This study	2.0	297.6	-0.8	I226-1-LP-DIR-T	Cryogenic	4.31365e-08	0.003751	273	I226-1-LP-DIR-T-3	LT-T-Z	g	4	I226-1	0	523.0
+This study	3.0	303.5	0.4	I226-1-LP-DIR-T	Cryogenic	4.269950000000001e-08	0.003713	273	I226-1-LP-DIR-T-4	LT-T-Z	g	5	I226-1	0	603.0
+This study	3.0	301.3	0.8	I226-1-LP-DIR-T	Cryogenic	4.2389e-08	0.003686	273	I226-1-LP-DIR-T-5	LT-T-Z	g	6	I226-1	0	673.0
+This study	4.0	305.2	4.2	I226-1-LP-DIR-T	Cryogenic	3.875500000000001e-08	0.00337	273	I226-1-LP-DIR-T-6	LT-T-Z	g	7	I226-1	0	723.0
+This study	3.0	305.0	4.5	I226-1-LP-DIR-T	Cryogenic	3.66735e-08	0.003189	273	I226-1-LP-DIR-T-7	LT-T-Z	g	8	I226-1	0	773.0
+This study	3.0	303.9	6.3	I226-1-LP-DIR-T	Cryogenic	3.57765e-08	0.003111	273	I226-1-LP-DIR-T-8	LT-T-Z	g	9	I226-1	0	798.0
+This study	2.0	302.2	6.9	I226-1-LP-DIR-T	Cryogenic	3.5856999999999995e-08	0.0031179999999999	273	I226-1-LP-DIR-T-9	LT-T-Z	g	1	I226-1	0	818.0
+This study	4.0	301.6	7.6	I226-1-LP-DIR-T	Cryogenic	3.4293e-08	0.002982	273	I226-1-LP-DIR-T-10	LT-T-Z	g	11	I226-1	0	838.0
+This study	4.0	300.4	8.2	I226-1-LP-DIR-T	Cryogenic	3.1418000000000004e-08	0.002732	273	I226-1-LP-DIR-T-11	LT-T-Z	g	12	I226-1	0	863.0
+This study	3.0	302.7	8.2	I226-1-LP-DIR-T	Cryogenic	3.0406e-08	0.002644	273	I226-1-LP-DIR-T-12	LT-T-Z	g	13	I226-1	0	883.0
+This study	3.0	300.6	7.8	I226-1-LP-DIR-T	Cryogenic	2.96585e-08	0.002579	273	I226-1-LP-DIR-T-13	LT-T-Z	g	14	I226-1	0	898.0
+This study	3.0	299.8	8.5	I226-1-LP-DIR-T	Cryogenic	2.83245e-08	0.002463	273	I226-1-LP-DIR-T-14	LT-T-Z	g	15	I226-1	0	913.0
+This study	2.0	298.8	8.6	I226-1-LP-DIR-T	Cryogenic	2.8002500000000002e-08	0.002435	273	I226-1-LP-DIR-T-15	LT-T-Z	g	16	I226-1	0	923.0
+This study	3.0	299.1	7.9	I226-1-LP-DIR-T	Cryogenic	2.75655e-08	0.002397	273	I226-1-LP-DIR-T-16	LT-T-Z	g	17	I226-1	0	933.0
+This study	2.0	298.3	8.9	I226-1-LP-DIR-T	Cryogenic	1.59505e-08	0.001387	273	I226-1-LP-DIR-T-17	LT-T-Z	g	18	I226-1	0	943.0
+This study	2.0	296.8	10.5	I226-1-LP-DIR-T	Cryogenic	3.5304999999999998e-09	0.000307	273	I226-1-LP-DIR-T-18	LT-T-Z	g	19	I226-1	0	948.0
+This study	4.0	276.0	-21.3	I226-2-LP-DIR-T	Cryogenic	4.18472e-08	0.00362	273	I226-2-LP-DIR-T-1	LT-T-Z	g	2	I226-2	0	273.0
+This study	3.0	298.2	-1.0	I226-2-LP-DIR-T	Cryogenic	3.5997840000000004e-08	0.003114	273	I226-2-LP-DIR-T-2	LT-T-Z	g	3	I226-2	0	448.0
+This study	2.0	303.0	2.5	I226-2-LP-DIR-T	Cryogenic	3.6876400000000014e-08	0.00319	273	I226-2-LP-DIR-T-3	LT-T-Z	g	4	I226-2	0	523.0
+This study	3.0	308.2	4.4	I226-2-LP-DIR-T	Cryogenic	3.850636e-08	0.0033309999999999	273	I226-2-LP-DIR-T-4	LT-T-Z	g	5	I226-2	0	603.0
+This study	3.0	306.7	4.2	I226-2-LP-DIR-T	Cryogenic	3.8437000000000015e-08	0.003325	273	I226-2-LP-DIR-T-5	LT-T-Z	g	6	I226-2	0	673.0
+This study	4.0	308.2	3.9	I226-2-LP-DIR-T	Cryogenic	3.5997840000000004e-08	0.003114	273	I226-2-LP-DIR-T-6	LT-T-Z	g	7	I226-2	0	723.0
+This study	3.0	309.5	3.6	I226-2-LP-DIR-T	Cryogenic	3.4333200000000005e-08	0.00297	273	I226-2-LP-DIR-T-7	LT-T-Z	g	8	I226-2	0	773.0
+This study	3.0	310.6	3.0	I226-2-LP-DIR-T	Cryogenic	3.305004e-08	0.002859	273	I226-2-LP-DIR-T-8	LT-T-Z	g	9	I226-2	0	798.0
+This study	2.0	310.7	4.5	I226-2-LP-DIR-T	Cryogenic	3.235644e-08	0.002799	273	I226-2-LP-DIR-T-9	LT-T-Z	g	1	I226-2	0	818.0
+This study	4.0	316.2	1.4	I226-2-LP-DIR-T	Cryogenic	3.083052e-08	0.0026669999999999	273	I226-2-LP-DIR-T-10	LT-T-Z	g	11	I226-2	0	838.0
+This study	4.0	319.8	4.9	I226-2-LP-DIR-T	Cryogenic	2.9339280000000002e-08	0.002538	273	I226-2-LP-DIR-T-11	LT-T-Z	g	12	I226-2	0	863.0
+This study	4.0	314.1	3.2	I226-2-LP-DIR-T	Cryogenic	2.9582040000000006e-08	0.002559	273	I226-2-LP-DIR-T-12	LT-T-Z	g	13	I226-2	0	883.0
+This study	4.0	310.3	3.6	I226-2-LP-DIR-T	Cryogenic	2.9478e-08	0.0025499999999999	273	I226-2-LP-DIR-T-13	LT-T-Z	g	14	I226-2	0	898.0
+This study	5.0	310.1	2.3	I226-2-LP-DIR-T	Cryogenic	2.7142880000000002e-08	0.002348	273	I226-2-LP-DIR-T-14	LT-T-Z	g	15	I226-2	0	913.0
+This study	4.0	309.2	4.9	I226-2-LP-DIR-T	Cryogenic	2.513144e-08	0.0021739999999999	273	I226-2-LP-DIR-T-15	LT-T-Z	g	16	I226-2	0	923.0
+This study	2.0	309.5	7.7	I226-2-LP-DIR-T	Cryogenic	2.4380040000000003e-08	0.002109	273	I226-2-LP-DIR-T-16	LT-T-Z	g	17	I226-2	0	933.0
+This study	4.0	306.3	8.5	I226-2-LP-DIR-T	Cryogenic	1.1502200000000002e-08	0.000995	273	I226-2-LP-DIR-T-17	LT-T-Z	g	18	I226-2	0	943.0
+This study	5.0	300.4	46.9	I226-2-LP-DIR-T	Cryogenic	1.6530799999999996e-09	0.0001429999999999	273	I226-2-LP-DIR-T-18	LT-T-Z	g	19	I226-2	0	948.0
+This study	4.0	249.3	3.4	I226-3-LP-DIR-T	Cryogenic	3.4660999999999995e-08	0.0030139999999999	273	I226-3-LP-DIR-T-1	LT-T-Z	g	2	I226-3	0	273.0
+This study	2.0	281.0	-7.7	I226-3-LP-DIR-T	Cryogenic	2.74965e-08	0.002391	273	I226-3-LP-DIR-T-2	LT-T-Z	g	3	I226-3	0	448.0
+This study	2.0	290.0	-9.9	I226-3-LP-DIR-T	Cryogenic	2.6542e-08	0.0023079999999999	273	I226-3-LP-DIR-T-3	LT-T-Z	g	4	I226-3	0	523.0
+This study	2.0	303.3	-13.9	I226-3-LP-DIR-T	Cryogenic	2.5668000000000002e-08	0.002232	273	I226-3-LP-DIR-T-4	LT-T-Z	g	5	I226-3	0	603.0
+This study	4.0	305.1	-16.6	I226-3-LP-DIR-T	Cryogenic	2.27355e-08	0.001977	273	I226-3-LP-DIR-T-5	LT-T-Z	g	6	I226-3	0	673.0
+This study	3.0	305.8	-22.0	I226-3-LP-DIR-T	Cryogenic	1.83885e-08	0.001599	273	I226-3-LP-DIR-T-6	LT-T-Z	g	7	I226-3	0	723.0
+This study	3.0	306.5	-26.2	I226-3-LP-DIR-T	Cryogenic	1.5823999999999997e-08	0.0013759999999999	273	I226-3-LP-DIR-T-7	LT-T-Z	g	8	I226-3	0	773.0
+This study	2.0	307.7	-26.1	I226-3-LP-DIR-T	Cryogenic	1.5801e-08	0.001374	273	I226-3-LP-DIR-T-8	LT-T-Z	g	9	I226-3	0	798.0
+This study	2.0	308.0	-25.9	I226-3-LP-DIR-T	Cryogenic	1.5755e-08	0.00137	273	I226-3-LP-DIR-T-9	LT-T-Z	g	1	I226-3	0	818.0
+This study	4.0	312.1	-26.6	I226-3-LP-DIR-T	Cryogenic	1.1983e-08	0.001042	273	I226-3-LP-DIR-T-10	LT-T-Z	g	11	I226-3	0	838.0
+This study	4.0	311.5	-26.5	I226-3-LP-DIR-T	Cryogenic	8.257e-09	0.000718	273	I226-3-LP-DIR-T-11	LT-T-Z	g	12	I226-3	0	863.0
+This study	4.0	307.5	-29.2	I226-3-LP-DIR-T	Cryogenic	3.3579999999999998e-09	0.000292	273	I226-3-LP-DIR-T-12	LT-T-Z	g	13	I226-3	0	883.0
+This study	3.0	247.4	-1.6	I226-4-LP-DIR-T	Cryogenic	3.54085e-08	0.003079	273	I226-4-LP-DIR-T-1	LT-T-Z	g	2	I226-4	0	273.0
+This study	2.0	282.9	-2.5	I226-4-LP-DIR-T	Cryogenic	2.46675e-08	0.002145	273	I226-4-LP-DIR-T-2	LT-T-Z	g	3	I226-4	0	448.0
+This study	2.0	287.0	-3.7	I226-4-LP-DIR-T	Cryogenic	2.7485e-08	0.00239	273	I226-4-LP-DIR-T-3	LT-T-Z	g	4	I226-4	0	523.0
+This study	2.0	297.8	-6.5	I226-4-LP-DIR-T	Cryogenic	2.68985e-08	0.002339	273	I226-4-LP-DIR-T-4	LT-T-Z	g	5	I226-4	0	603.0
+This study	3.0	297.0	-7.2	I226-4-LP-DIR-T	Cryogenic	2.34945e-08	0.002043	273	I226-4-LP-DIR-T-5	LT-T-Z	g	6	I226-4	0	673.0
+This study	2.0	296.2	-11.2	I226-4-LP-DIR-T	Cryogenic	1.8492e-08	0.001608	273	I226-4-LP-DIR-T-6	LT-T-Z	g	7	I226-4	0	723.0
+This study	3.0	292.9	-13.0	I226-4-LP-DIR-T	Cryogenic	1.5375499999999998e-08	0.0013369999999999	273	I226-4-LP-DIR-T-7	LT-T-Z	g	8	I226-4	0	773.0
+This study	3.0	295.4	-14.1	I226-4-LP-DIR-T	Cryogenic	1.4168e-08	0.001232	273	I226-4-LP-DIR-T-8	LT-T-Z	g	9	I226-4	0	798.0
+This study	2.0	291.0	-21.7	I226-4-LP-DIR-T	Cryogenic	1.30985e-08	0.001139	273	I226-4-LP-DIR-T-9	LT-T-Z	g	1	I226-4	0	818.0
+This study	3.0	294.0	-14.2	I226-4-LP-DIR-T	Cryogenic	1.09595e-08	0.000953	273	I226-4-LP-DIR-T-10	LT-T-Z	g	11	I226-4	0	838.0
+This study	4.0	306.7	-18.6	I226-4-LP-DIR-T	Cryogenic	7.958e-09	0.0006919999999999	273	I226-4-LP-DIR-T-11	LT-T-Z	g	12	I226-4	0	863.0
+This study	4.0	307.6	-17.5	I226-4-LP-DIR-T	Cryogenic	7.383e-09	0.000642	273	I226-4-LP-DIR-T-12	LT-T-Z	g	13	I226-4	0	883.0
+This study	4.0	303.3	-15.1	I226-4-LP-DIR-T	Cryogenic	6.4170000000000005e-09	0.000558	273	I226-4-LP-DIR-T-13	LT-T-Z	g	14	I226-4	0	898.0
+This study	3.0	309.8	-17.8	I226-4-LP-DIR-T	Cryogenic	5.0255e-09	0.000437	273	I226-4-LP-DIR-T-14	LT-T-Z	g	15	I226-4	0	913.0
+This study	3.0	307.3	-18.3	I226-4-LP-DIR-T	Cryogenic	3.013e-09	0.000262	273	I226-4-LP-DIR-T-15	LT-T-Z	g	16	I226-4	0	923.0
+This study	3.0	304.6	-17.3	I226-4-LP-DIR-T	Cryogenic	1.1845e-09	0.000103	273	I226-4-LP-DIR-T-16	LT-T-Z	g	17	I226-4	0	933.0
+This study	3.0	268.7	-4.0	I226-5-LP-DIR-T	Cryogenic	2.2908e-08	0.001992	273	I226-5-LP-DIR-T-1	LT-T-Z	g	2	I226-5	0	448.0
+This study	2.0	280.4	-4.7	I226-5-LP-DIR-T	Cryogenic	2.2747000000000002e-08	0.001978	273	I226-5-LP-DIR-T-2	LT-T-Z	g	3	I226-5	0	523.0
+This study	2.0	295.0	-7.9	I226-5-LP-DIR-T	Cryogenic	2.0746e-08	0.001804	273	I226-5-LP-DIR-T-3	LT-T-Z	g	4	I226-5	0	603.0
+This study	2.0	299.8	-10.6	I226-5-LP-DIR-T	Cryogenic	2.01135e-08	0.001749	273	I226-5-LP-DIR-T-4	LT-T-Z	g	5	I226-5	0	673.0
+This study	3.0	292.7	-14.6	I226-5-LP-DIR-T	Cryogenic	1.7043e-08	0.001482	273	I226-5-LP-DIR-T-5	LT-T-Z	g	6	I226-5	0	723.0
+This study	2.0	294.0	-17.5	I226-5-LP-DIR-T	Cryogenic	1.4846499999999998e-08	0.0012909999999999	273	I226-5-LP-DIR-T-6	LT-T-Z	g	7	I226-5	0	773.0
+This study	4.0	296.7	-18.5	I226-5-LP-DIR-T	Cryogenic	1.3547e-08	0.001178	273	I226-5-LP-DIR-T-7	LT-T-Z	g	8	I226-5	0	798.0
+This study	3.0	297.2	-12.3	I226-5-LP-DIR-T	Cryogenic	1.1569e-08	0.001006	273	I226-5-LP-DIR-T-8	LT-T-Z	g	9	I226-5	0	818.0
+This study	2.0	290.6	-21.7	I226-5-LP-DIR-T	Cryogenic	1.19485e-08	0.001039	273	I226-5-LP-DIR-T-9	LT-T-Z	g	1	I226-5	0	838.0
+This study	4.0	300.9	-17.9	I226-5-LP-DIR-T	Cryogenic	6.796499999999999e-09	0.0005909999999999	273	I226-5-LP-DIR-T-10	LT-T-Z	g	11	I226-5	0	863.0
+This study	3.0	301.7	-19.8	I226-5-LP-DIR-T	Cryogenic	6.1180000000000014e-09	0.000532	273	I226-5-LP-DIR-T-11	LT-T-Z	g	12	I226-5	0	883.0
+This study	6.0	300.0	-18.6	I226-5-LP-DIR-T	Cryogenic	5.8305e-09	0.000507	273	I226-5-LP-DIR-T-12	LT-T-Z	g	13	I226-5	0	898.0
+This study	2.0	300.8	-20.8	I226-5-LP-DIR-T	Cryogenic	4.3585e-09	0.000379	273	I226-5-LP-DIR-T-13	LT-T-Z	g	14	I226-5	0	913.0
+This study	4.0	299.2	-22.6	I226-5-LP-DIR-T	Cryogenic	2.8865e-09	0.000251	273	I226-5-LP-DIR-T-14	LT-T-Z	g	15	I226-5	0	923.0
+This study	5.0	298.1	-23.3	I226-5-LP-DIR-T	Cryogenic	1.403e-09	0.000122	273	I226-5-LP-DIR-T-15	LT-T-Z	g	16	I226-5	0	933.0
+This study	4.0	59.1	22.4	I226-5-LP-DIR-T	Cryogenic	1.058e-09	9.2e-05	273	I226-5-LP-DIR-T-16	LT-T-Z	g	17	I226-5	0	943.0
+This study	3.0	242.7	-3.2	I226-6-LP-DIR-T	Cryogenic	3.3005000000000003e-08	0.00287	273	I226-6-LP-DIR-T-1	LT-T-Z	g	2	I226-6	0	273.0
+This study	2.0	274.3	-6.5	I226-6-LP-DIR-T	Cryogenic	2.277e-08	0.00198	273	I226-6-LP-DIR-T-2	LT-T-Z	g	3	I226-6	0	448.0
+This study	2.0	282.4	-7.4	I226-6-LP-DIR-T	Cryogenic	2.2701e-08	0.001974	273	I226-6-LP-DIR-T-3	LT-T-Z	g	4	I226-6	0	523.0
+This study	2.0	290.3	-9.7	I226-6-LP-DIR-T	Cryogenic	2.19075e-08	0.001905	273	I226-6-LP-DIR-T-4	LT-T-Z	g	5	I226-6	0	603.0
+This study	3.0	287.3	-10.9	I226-6-LP-DIR-T	Cryogenic	2.17695e-08	0.001893	273	I226-6-LP-DIR-T-5	LT-T-Z	g	6	I226-6	0	673.0
+This study	4.0	289.3	-14.3	I226-6-LP-DIR-T	Cryogenic	1.8986500000000006e-08	0.001651	273	I226-6-LP-DIR-T-6	LT-T-Z	g	7	I226-6	0	723.0
+This study	4.0	285.8	-16.3	I226-6-LP-DIR-T	Cryogenic	1.64105e-08	0.001427	273	I226-6-LP-DIR-T-7	LT-T-Z	g	8	I226-6	0	773.0
+This study	3.0	283.7	-17.5	I226-6-LP-DIR-T	Cryogenic	1.4743e-08	0.001282	273	I226-6-LP-DIR-T-8	LT-T-Z	g	9	I226-6	0	798.0
+This study	2.0	285.7	-13.0	I226-6-LP-DIR-T	Cryogenic	1.3915e-08	0.00121	273	I226-6-LP-DIR-T-9	LT-T-Z	g	1	I226-6	0	818.0
+This study	4.0	288.5	-17.2	I226-6-LP-DIR-T	Cryogenic	1.29145e-08	0.001123	273	I226-6-LP-DIR-T-10	LT-T-Z	g	11	I226-6	0	838.0
+This study	4.0	283.3	-16.8	I226-6-LP-DIR-T	Cryogenic	1.0672e-08	0.000928	273	I226-6-LP-DIR-T-11	LT-T-Z	g	12	I226-6	0	863.0
+This study	4.0	291.3	-15.9	I226-6-LP-DIR-T	Cryogenic	9.8555e-09	0.000857	273	I226-6-LP-DIR-T-12	LT-T-Z	g	13	I226-6	0	883.0
+This study	9.0	290.3	-14.7	I226-6-LP-DIR-T	Cryogenic	4.186e-09	0.000364	273	I226-6-LP-DIR-T-13	LT-T-Z	g	14	I226-6	0	898.0
+This study	3.0	293.3	-15.1	I226-6-LP-DIR-T	Cryogenic	2.6565e-09	0.000231	273	I226-6-LP-DIR-T-14	LT-T-Z	g	15	I226-6	0	913.0
+This study	7.0	289.9	-16.5	I226-6-LP-DIR-T	Cryogenic	1.541e-09	0.000134	273	I226-6-LP-DIR-T-15	LT-T-Z	g	16	I226-6	0	923.0
+This study	2.0	288.8	-3.8	I226-7-LP-DIR-T	Cryogenic	3.98935e-08	0.003469	273	I226-7-LP-DIR-T-1	LT-T-Z	g	2	I226-7	0	273.0
+This study	2.0	314.6	-1.6	I226-7-LP-DIR-T	Cryogenic	3.1901e-08	0.002774	273	I226-7-LP-DIR-T-2	LT-T-Z	g	3	I226-7	0	448.0
+This study	1.0	321.9	-0.9	I226-7-LP-DIR-T	Cryogenic	2.99e-08	0.0026	273	I226-7-LP-DIR-T-3	LT-T-Z	g	4	I226-7	0	523.0
+This study	1.0	322.0	-0.4	I226-7-LP-DIR-T	Cryogenic	3.02565e-08	0.0026309999999999	273	I226-7-LP-DIR-T-4	LT-T-Z	g	5	I226-7	0	603.0
+This study	1.0	318.5	-2.9	I226-7-LP-DIR-T	Cryogenic	2.58175e-08	0.002245	273	I226-7-LP-DIR-T-5	LT-T-Z	g	6	I226-7	0	673.0
+This study	2.0	317.8	-6.1	I226-7-LP-DIR-T	Cryogenic	2.10335e-08	0.001829	273	I226-7-LP-DIR-T-6	LT-T-Z	g	7	I226-7	0	723.0
+This study	2.0	316.4	-8.5	I226-7-LP-DIR-T	Cryogenic	1.7434e-08	0.001516	273	I226-7-LP-DIR-T-7	LT-T-Z	g	8	I226-7	0	773.0
+This study	2.0	315.3	-9.2	I226-7-LP-DIR-T	Cryogenic	1.6238e-08	0.0014119999999999	273	I226-7-LP-DIR-T-8	LT-T-Z	g	9	I226-7	0	798.0
+This study	3.0	313.9	-7.2	I226-7-LP-DIR-T	Cryogenic	1.5823999999999997e-08	0.0013759999999999	273	I226-7-LP-DIR-T-9	LT-T-Z	g	1	I226-7	0	818.0
+This study	2.0	314.3	-9.3	I226-7-LP-DIR-T	Cryogenic	1.50075e-08	0.001305	273	I226-7-LP-DIR-T-10	LT-T-Z	g	11	I226-7	0	838.0
+This study	1.0	314.2	-7.7	I226-7-LP-DIR-T	Cryogenic	1.1338999999999998e-08	0.000986	273	I226-7-LP-DIR-T-11	LT-T-Z	g	12	I226-7	0	863.0
+This study	4.0	316.2	-5.9	I226-7-LP-DIR-T	Cryogenic	9.1885e-09	0.000799	273	I226-7-LP-DIR-T-12	LT-T-Z	g	13	I226-7	0	883.0
+This study	3.0	315.0	-6.2	I226-7-LP-DIR-T	Cryogenic	5.612e-09	0.000488	273	I226-7-LP-DIR-T-13	LT-T-Z	g	14	I226-7	0	898.0
+This study	4.0	313.9	-5.5	I226-7-LP-DIR-T	Cryogenic	4.3585e-09	0.000379	273	I226-7-LP-DIR-T-14	LT-T-Z	g	15	I226-7	0	913.0
+This study	4.0	321.5	-4.3	I226-7-LP-DIR-T	Cryogenic	2.024e-09	0.000176	273	I226-7-LP-DIR-T-15	LT-T-Z	g	16	I226-7	0	923.0
+This study	6.0	318.5	-3.2	I226-7-LP-DIR-T	Cryogenic	1.1845e-09	0.000103	273	I226-7-LP-DIR-T-16	LT-T-Z	g	17	I226-7	0	933.0
+This study	5.0	239.2	-5.3	I226-8-LP-DIR-T	Cryogenic	1.2374000000000002e-08	0.001076	273	I226-8-LP-DIR-T-1	LT-T-Z	g	2	I226-8	0	273.0
+This study	2.0	302.0	-0.4	I226-8-LP-DIR-T	Cryogenic	1.6031e-08	0.0013939999999999	273	I226-8-LP-DIR-T-2	LT-T-Z	g	3	I226-8	0	448.0
+This study	1.0	305.8	-0.2	I226-8-LP-DIR-T	Cryogenic	1.7641e-08	0.001534	273	I226-8-LP-DIR-T-3	LT-T-Z	g	4	I226-8	0	523.0
+This study	2.0	305.3	-4.6	I226-8-LP-DIR-T	Cryogenic	2.23215e-08	0.001941	273	I226-8-LP-DIR-T-4	LT-T-Z	g	5	I226-8	0	603.0
+This study	3.0	305.1	-6.1	I226-8-LP-DIR-T	Cryogenic	1.8561000000000003e-08	0.001614	273	I226-8-LP-DIR-T-5	LT-T-Z	g	6	I226-8	0	673.0
+This study	3.0	305.9	-11.0	I226-8-LP-DIR-T	Cryogenic	1.52835e-08	0.0013289999999999	273	I226-8-LP-DIR-T-6	LT-T-Z	g	7	I226-8	0	723.0
+This study	3.0	300.6	-15.4	I226-8-LP-DIR-T	Cryogenic	1.3432e-08	0.001168	273	I226-8-LP-DIR-T-7	LT-T-Z	g	8	I226-8	0	773.0
+This study	3.0	304.0	-12.4	I226-8-LP-DIR-T	Cryogenic	1.1672499999999996e-08	0.0010149999999999	273	I226-8-LP-DIR-T-8	LT-T-Z	g	9	I226-8	0	798.0
+This study	2.0	295.2	-10.6	I226-8-LP-DIR-T	Cryogenic	1.1454e-08	0.000996	273	I226-8-LP-DIR-T-9	LT-T-Z	g	1	I226-8	0	818.0
+This study	4.0	304.1	-23.2	I226-8-LP-DIR-T	Cryogenic	9.775e-09	0.00085	273	I226-8-LP-DIR-T-10	LT-T-Z	g	11	I226-8	0	838.0
+This study	4.0	295.6	-22.9	I226-8-LP-DIR-T	Cryogenic	9.0275e-09	0.000785	273	I226-8-LP-DIR-T-11	LT-T-Z	g	12	I226-8	0	863.0
+This study	5.0	299.0	-24.2	I226-8-LP-DIR-T	Cryogenic	4.876e-09	0.000424	273	I226-8-LP-DIR-T-12	LT-T-Z	g	13	I226-8	0	883.0
+This study	6.0	300.4	-26.2	I226-8-LP-DIR-T	Cryogenic	5.6004999999999994e-09	0.0004869999999999	273	I226-8-LP-DIR-T-13	LT-T-Z	g	14	I226-8	0	898.0
+This study	5.0	301.2	-25.4	I226-8-LP-DIR-T	Cryogenic	3.082e-09	0.000268	273	I226-8-LP-DIR-T-14	LT-T-Z	g	15	I226-8	0	913.0
+This study	17.0	306.7	-19.1	I226-8-LP-DIR-T	Cryogenic	1.84e-09	0.00016	273	I226-8-LP-DIR-T-15	LT-T-Z	g	16	I226-8	0	923.0
+>>>>>>>>>>
+tab delimited	ages
+location	site	age	age_unit	method_codes	citations
+Great Boundary Fault-Vindhyan	I225	950	Ma	GM-CC-STRAT	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study
+Great Boundary Fault-Vindhyan	I226	950	Ma	GM-CC-STRAT	Kwafo et al., 2026, Geoscience Frontiers, 17, https://doi.org/10.1016/j.gsf.2025.102168:This study
